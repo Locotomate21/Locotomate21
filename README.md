@@ -1,3 +1,4 @@
+### 
 Hey. Read code, clone or chill exploring these repos! ☕👽
 
 📚 I'm currently studying **Software Analysis & Development** and **Multimedia & Web Design** at SENA.  
@@ -8,6 +9,7 @@ Hey. Read code, clone or chill exploring these repos! ☕👽
 🎨 Designing interfaces that feel alive and intuitive is a core goal.  
 🌄 I find inspiration in **philosophy, nature, and storytelling**.  
 🙆 Let’s collaborate on something thoughtful. **Reach out!**
+###
 ---
 ### 🧩 Currently exploring
 - 🌐 Web storytelling tools for digital literature projects  
