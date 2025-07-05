@@ -1,4 +1,4 @@
-![Nest js](https://github.com/user-attachments/assets/96d75b52-51ad-4ff4-b1a3-2434552e4c52)![image](https://github.com/user-attachments/assets/33caf7f7-dedc-4283-9102-2ea15b330267)Hey. Read code, clone or chill exploring these repos! ☕👽
+Hey. Read code, clone or chill exploring these repos! ☕👽
 
 📚 I'm currently studying **Software Analysis & Development** and **Multimedia & Web Design** at SENA.  
 🧠 Big fan of **Digital Humanities** — projects where technology meets human meaning.  
