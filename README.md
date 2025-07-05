@@ -12,8 +12,17 @@ Hey. Read code, clone or chill exploring these repos! ☕👽
 ---
 
 ### 🧰 Tech Stack
-![image](https://github.com/user-attachments/assets/45b0d9ab-49f1-4ff8-a10d-e83fdc42f62e)
+#### Languages
+<div align="center">
+  <img src="..." alt="Python" height="50" style="margin: 0 10px"/>
+  <img src="![image](https://github.com/user-attachments/assets/1dc84f5a-b091-4d12-a11c-828916051063)" alt="JavaScript" height="50" style="margin: 0 10px"/>
+</div>
 
+#### Frameworks & Tools
+<div align="center">
+  <img src="![image](https://github.com/user-attachments/assets/7767ce22-c015-429c-8ca8-ed78d4dc8802)" alt="React" height="50" style="margin: 0 10px"/>
+  <img src="![image](https://github.com/user-attachments/assets/555e28d1-e4bc-4fa8-92c5-8bdb22835957)" alt="Nestjs" height="50" style="margin: 0 10px"/>
+</div>
 ###
 ---
 ### 🧩 Currently exploring
